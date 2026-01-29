@@ -1,6 +1,14 @@
 # Olá, Mundo!
-Primeiro repositorio do curso de Git e GiHub
+
+Primeiro repositório do curso de Git e GiHub
 
 Repositório criado para as aulas de GitHub Desktop, disponibilizadas pelo canal Curso em Video - Gustavo Guanabara.
 
 Essa linha foi adicionada diretamente pelo GitHub!!!
+
+
+
+
+
+Em outro curso estou aprendendo a fazer autenticação por SSH 
+
